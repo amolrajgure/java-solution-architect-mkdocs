@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://yourusername.github.io/your-repo-name/</loc>
+         <lastmod>2025-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://yourusername.github.io/your-repo-name/cloud-devops/</loc>
+         <lastmod>2025-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://yourusername.github.io/your-repo-name/interview-prep/</loc>
+         <lastmod>2025-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://yourusername.github.io/your-repo-name/java-core/</loc>
+         <lastmod>2025-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://yourusername.github.io/your-repo-name/microservices/</loc>
+         <lastmod>2025-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://yourusername.github.io/your-repo-name/react-ui/</loc>
+         <lastmod>2025-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://yourusername.github.io/your-repo-name/spring-boot/</loc>
+         <lastmod>2025-08-05</lastmod>
+    </url>
+    <url>
+         <loc>https://yourusername.github.io/your-repo-name/system-design/</loc>
+         <lastmod>2025-08-05</lastmod>
+    </url>
+</urlset>
