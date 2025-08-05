@@ -1,0 +1,16 @@
+site_name: Java Solution Architect Notes
+site_url: https://yourusername.github.io/your-repo-name/
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Java Core: java-core.md
+  - Spring & Boot: spring-boot.md
+  - Microservices: microservices.md
+  - Cloud & DevOps: cloud-devops.md
+  - React & UI: react-ui.md
+  - System Design: system-design.md
+  - Interview Prep: interview-prep.md
+repo_url: https://github.com/yourusername/your-repo-name
+repo_name: your-repo-name
+edit_uri: ""
